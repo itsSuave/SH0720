@@ -7,4 +7,5 @@ hello git! hello suave!
 hello git! hello suave!
 hello git! hello suave!
 hello git! hello suave! master test
+hello git! hello suave! hot-fix test
 hello git! hello suave!
